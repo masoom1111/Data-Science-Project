@@ -2,7 +2,7 @@
 
 As part of my Making Products Count (Data Science for Product Managers) course at Carnegie Mellon. A team of 3 of us, were assigned this project which aimed to answer the following description:
 
-## Project Description:
+## Project Description
 
 In this project you will analyze survey data around media consumption habits gathered by Deloitte in preparation for its annual Digital Democracy report. 
 
@@ -22,7 +22,7 @@ It uses Python as the programming language. The libraries used are: numpy, panda
 Follows the steps of EDA (Exploratory Data Analysis) -> Modelling (Supervised Machine Learning) -> Choosing the best model
 
 ## ReadMe
-This repository contains 2 excel files which contain the dataset used.
-The powerpoint(.pptx) consists of the presentation performed by our team in the classroom as part of the pitch we will make as Product Managers. 
-The pdf(.pdf) consists of the detailed executive report of our project.
-The jupyter file (.ipynb) is the jupyter notebook with the coding and appropriate comments.
+This repository contains 2 excel files which contain the dataset used. \\
+The powerpoint(.pptx) consists of the presentation performed by our team in the classroom as part of the pitch we will make as Product Managers. \\
+The pdf(.pdf) consists of the detailed executive report of our project.\\
+The jupyter file (.ipynb) is the jupyter notebook with the coding and appropriate comments.\\
